@@ -6,9 +6,10 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "streamvanillasmp.aternos.me
+",
+    "port": 23907,
+    "version": "1.20.1"
   },
 
   "position": {
